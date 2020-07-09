@@ -1,0 +1,28 @@
+{
+  "name": "elm-animator-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "elm-app build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloWi/elm-animator-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FloWi/elm-animator-playground/issues"
+  },
+  "homepage": "https://github.com/FloWi/elm-animator-playground#readme",
+  "devDependencies": {
+    "create-elm-app": "^4.2.23",
+    "elm-format": "^0.8.3"
+  },
+  "dependencies": {}
+}
